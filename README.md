@@ -1,8 +1,8 @@
-#### 
+#### Cara menjalankan
 copy .env.example .env
 </br>composer install
- php artisan key:generate
- php artisan migrate 
-php artisan db:seed
-php artisan serve
+ </br>php artisan key:generate
+ </br>php artisan migrate 
+</br>php artisan db:seed
+</br>php artisan serve
 
