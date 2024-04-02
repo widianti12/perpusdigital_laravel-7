@@ -1,6 +1,6 @@
 ### Cara Menjalankan Project Perpustakaan Digital laravel*7
 
- </li>copy .env.example .env
+ </i> copy .env.example .env
 </br>composer install
 </br>php artisan key:generate
 </br>php artisan migrate 
