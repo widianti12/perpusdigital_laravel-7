@@ -1,4 +1,4 @@
-## copy .env.example .env
+### copy .env.example .env
 <p>composer install</p>
 php artisan key:generate
 php artisan migrate 
