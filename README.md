@@ -1,7 +1,6 @@
 #### 
 copy .env.example .env
-
-<p>composer install</p>
+</br>composer install
  php artisan key:generate
  php artisan migrate 
 php artisan db:seed
